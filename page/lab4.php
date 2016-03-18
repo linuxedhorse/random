@@ -31,7 +31,6 @@
             <br/>
             <h3>Числа</h3> <input type="text" id="num" value="">
             <h3>Интервалы</h3> <input type="text" id="int" value="">
-            <h3>Смещение</h3><input type="text" id="x" value=""><br/><br/>
 	<input type="radio" name="metod" value="1" checked="true"> Экспоненциальное распределение<br/>
 	<input type="radio" name="metod" value="2"> Гиперэкспоненциальное распределение<br/>
 	<br/>

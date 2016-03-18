@@ -34,7 +34,6 @@
 	<input type="text" id="num" value="">
     <h3>Интервалы</h3>
 	<input type="text" id="int" value=""><br/>
-    <h3>Смещение</h3><input type="text" id="x" value=""><br/><br/>
 	<input id="but" type="button" value="Построить график">
 </div>
 
